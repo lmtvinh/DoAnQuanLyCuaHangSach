@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SmartPhone_Store_Manage_Java/src/lib/LGoodDatePicker-10.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SmartPhone_Store_Manage_Java/src/lib/itextpdf-5.5.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SmartPhone_Store_Manage_Java/src/lib/mysql-connector-java-5.1.23-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
